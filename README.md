@@ -1,6 +1,6 @@
 ### Hi there!
 I am Stefano 👨‍🔬
-- 🦠 🍇 🍷 I’m currently working on Plant-Microbiome and biocontrol, Plant-Microbiome metabarcoding data analysis, Microbial ecology and Plant pathogens, Sequential Yeast fermetation kinetics modeling and killer factors.
+- 🦠 🍇 🍷 I’m currently working on Plant-Microbiome and biocontrol, Plant-Microbiome metabarcoding data analysis, Microbial ecology and Plant pathogens, Sequential Yeast fermetation kinetics modeling.
 - 🌱 💻 🧬 I’m currently learning GWAS, genomics, genomic prediction, Python.
 - 🛠️ Fascinated by bioinformatics and data analysis.
 - 👨‍💻 🐧 Currently working with R, LaTeX, markdown, css, SQL, bash and Linux.
