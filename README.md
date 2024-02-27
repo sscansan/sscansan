@@ -1,7 +1,7 @@
-### Hi there 👋
-I am Stefano
-- 🔭 I’m currently working on Plant-Microbiome and biocontrol, Plant-Microbiome metabarcoding data analysis, Plant pathogens, Sequential Yeast fermetation kinetics modeling.
-- 🌱 I’m currently learning GWAS, genomics, genomic prediction, Python
+### Hi there!
+I am Stefano 👨‍🔬
+- 🦠 🍇 🍷 I’m currently working on Plant-Microbiome and biocontrol, Plant-Microbiome metabarcoding data analysis, Plant pathogens, Sequential Yeast fermetation kinetics modeling.
+- 🌱 👨‍💻 🧬 I’m currently learning GWAS, genomics, genomic prediction, Python
 - 📫 How to reach me: stefanoscansani@gmail.com
 
 Once the projects are completed, the repositories are going to be available.
