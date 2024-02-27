@@ -4,7 +4,7 @@ I am Stefano 👨‍🔬
 - 🌱 💻 🧬 I’m currently learning GWAS, genomics, genomic prediction, Python.
 - 🛠️ Fascinated by bioinformatics and data analysis.
 - 👨‍💻 🐧 Currently working with R, LaTeX, markdown, css, SQL, bash and Linux.
-- 📫 How to reach me: stefanoscansani@gmail.com
+- 📫 Reach me out at stefanoscansani@gmail.com
 
 Once the projects are completed, the repositories are going to be available.
 <!--
