@@ -1,7 +1,7 @@
 ### Hi there!
 I am Stefano 👨‍🔬
 - 🦠 🍇 🍷 I’m currently working on Plant-Microbiome interaction and biocontrol, Plant-Microbiome metabarcoding, Microbial ecology and Plant pathogens, Sequential Yeast fermentation kinetics modeling.
-- 🌱 💻 🧬 I’m currently learning methods for genomic association, genomic prediction, modeling (ML) and Python.
+- 🌱 💻 🧬 I’m currently learning methods for genomic association, genomic prediction, predictive modeling (ML) and Python.
 - 🌌 🛠️ Fascinated by bioinformatics and data analysis.
 - 👨‍💻 🐧 Working with R, LaTeX, markdown, css, SQL, bash and Linux.
 - 📫 Reach me out at stefanoscansani@gmail.com
