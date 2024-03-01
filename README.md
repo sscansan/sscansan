@@ -6,4 +6,4 @@ I am Stefano 👨‍🔬
 - 👨‍💻 🐧 Working with R, LaTeX, markdown, css, SQL, bash and Linux.
 - 📫 Reach me out at stefanoscansani@gmail.com
 
-!!! Once the projects are completed, the repositories are going to be available.
+Due to data protection, the repositories are going to be public once the projects are concluded.
