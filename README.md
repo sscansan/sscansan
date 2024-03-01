@@ -1,4 +1,4 @@
-### Hi there!
+### Hi!
 I am Stefano 👨‍🔬
 - 🦠 🍇 I’m currently working on Plant-Microbiome interaction and biocontrol, Plant-Microbiome metabarcoding, Microbial ecology and Plant pathogens, Sequential Yeast fermentation kinetics modeling.
 - 🌱 💻 🧬 I’m currently learning methods and tools for genomic association, genomic prediction, predictive modeling (ML) and Python.
