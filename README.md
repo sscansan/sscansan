@@ -9,4 +9,4 @@ Here I am hosting my bioinformatics and metabolomics projects!
 - 👨‍💻 🐧 Working with R, LaTeX, markdown, css, SQL, bash and Linux.
 - 📫 Reach me out at stefanoscansani@gmail.com
 
-Due to data protection, the private repositories are going to be public once the projects are concluded.
+Upon project completion and publication, private repositories will become public, releasing both code and data to endorse reproducible research.
