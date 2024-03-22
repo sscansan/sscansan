@@ -3,7 +3,7 @@ I am Stefano 👨‍🔬
 
 Here I am hosting my bioinformatics and metabolomics projects!
 
-- 🦠 🍇 I’m currently working on Plant-Microbiome interaction and biocontrol, Plant-Microbiome metabarcoding, Microbial ecology and Plant pathogens, Sequential Yeast fermentation kinetics modeling.
+- 🦠 🍇 I’m currently working on Plant-Microbiome interaction and biocontrol, Plant-Microbiome metabarcoding, Microbial and population ecology and Plant pathogens, Sequential Yeast fermentation kinetics modeling.
 - 🌱 💻 🧬 I’m learning methods and tools for genomic association, genomic prediction, classification and prediction models.
 - 🌌 🛠️ Interested in bioinformatics, data analysis and visualisation.
 - 👨‍💻 🐧 Working with R, Python, LaTeX, markdown, css, SQL, bash and Linux.
