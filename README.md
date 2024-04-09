@@ -2,7 +2,7 @@
 
 Here I am hosting my bioinformatics and metabolomics projects!
 
-- 🦠 🍇 I’m currently working on plant-microbiome interaction and biocontrol, metabarcoding, Microbial and population ecology and plant pathogens, and sequential yeast fermentation kinetics modeling.
+- 🦠 🍇 I’m currently working on plant-microbiome interaction and biocontrol, metabarcoding, Microbial and population ecology, plant pathogens, and sequential yeast fermentation kinetics modeling.
 - 🌱 💻 🧬 I’m learning methods and tools for genomic association, genomic prediction, classification and prediction models.
 - 🌌 🛠️ Interested in bioinformatics, data analysis and visualisation.
 - 👨‍💻 🐧 Working with R, Python, LaTeX, markdown, css, SQL, bash and Linux.
