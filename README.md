@@ -1,4 +1,4 @@
-### Hi! I am Stefano 👨‍🔬
+### Hi! I am Stefano
 
 Here I am hosting my bioinformatics and metabolomics projects!
 
